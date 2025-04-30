@@ -1,0 +1,35 @@
+body {
+    background-color: #ffe6f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+h1 {
+    color: #cc3399;
+}
+a {
+    color: #cc3399;
+    text-decoration: none;
+}
+nav a {
+    margin-right: 15px;
+}
+img {
+    border: 2px solid #cc3399;
+    border-radius: 8px;
+    margin-top: 10px;
+    width: 300px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #cc3399;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #ffccdd;
+}
