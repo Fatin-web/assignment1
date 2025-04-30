@@ -1,0 +1,7 @@
+assignment1/
+├── index.html            ← Homepage
+├── steps.html            ← Step-by-Step Guide
+├── resources.html        ← Inspiration & Resources
+├── images/               ← Folder for images (optional if using external links)
+│   └── example.jpg       ← (Optional) Local image
+└── style.css             ← External CSS file
