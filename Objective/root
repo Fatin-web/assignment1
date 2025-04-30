@@ -1,8 +1,0 @@
-career-path-site/        ← Root folder (you can name it anything)
-│
-├── index.html           ← Homepage
-├── steps.html           ← Step-by-Step Guide page
-├── resources.html       ← Inspiration & Resources page
-├── images/              ← Folder for images (optional if using external links)
-│   └── example.jpg      ← (Optional) Local image
-└── style.css            ← (Optional) External CSS if you want to split from HTML
